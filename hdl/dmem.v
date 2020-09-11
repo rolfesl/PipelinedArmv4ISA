@@ -1,9 +1,6 @@
 //------------------------------------------------
 // dmem.v
-// James E. Stine
-// February 1, 2018
-// Oklahoma State University
-// ECEN 4243
+// 
 // Harvard Architecture Data Memory (Big Endian)
 //------------------------------------------------
 
