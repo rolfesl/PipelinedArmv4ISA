@@ -1,5 +1,4 @@
 @ memfile.s
-@ david_harris@hmc.edu and sarah.harris@unlv.edu 20 Jan 2014
 @ Test ARM processor
 @ ADD, SUB, AND, ORR, LDR, STR, B
 @ TST, LSL, CMN, ADC
