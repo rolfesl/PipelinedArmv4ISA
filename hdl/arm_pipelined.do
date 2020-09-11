@@ -1,9 +1,9 @@
 # Copyright 1991-2007 Mentor Graphics Corporation
 # 
-# Modification by Oklahoma State University
-# Use with Testbench 
-# James Stine, 2008
-# Go Cowboys!!!!!!
+# 
+# 
+# 
+# 
 #
 # All Rights Reserved.
 #
