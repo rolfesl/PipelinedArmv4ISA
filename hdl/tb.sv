@@ -1,11 +1,8 @@
 // tb.sv
-// David_Harris@hmc.edu and Sarah_Harris@hmc.edu 25 June 2013
+// 
 // Single-cycle implementation of a subset of ARMv4
 //
-// This version has been modified by:
-//     Dr. James Stine (james.stine@okstate.edu)
-//     Alex Underwood  (alexander.underwood@okstate.edu)
-// for formatting and additional functionality.
+
 
 module testbench();
 
