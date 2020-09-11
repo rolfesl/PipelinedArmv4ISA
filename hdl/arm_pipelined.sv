@@ -1,11 +1,8 @@
 // arm_pipelined.sv
-// David_Harris@hmc.edu, Sarah.Harris@unlv.edu 4 January 2014
+// 
 // Pipelined implementation of a subset of ARMv4
 //
-// This version has been modified by:
-//     Dr. James Stine (james.stine@okstate.edu)
-//     Alex Underwood  (alexander.underwood@okstate.edu)
-// for formatting and additional functionality.
+// 
 
 // 16 32-bit registers
 // Data-processing instructions
